@@ -1,0 +1,15 @@
+How to Run Project
+
+1. Download and Unzip file on your local system copy bbdms.
+2. Put bbdms folder inside root directory
+
+Database Configuration
+
+Open phpmyadmin
+Create Database bbdms
+Import database bbdms.sql(available inside zip package)
+Open Your browser put inside browser “http://localhost/bbdms”
+
+For Admin Panel
+Open Your browser put inside browser “http://localhost/bbdms/admin”
+Login Details for admin : admin/Test@12345
